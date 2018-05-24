@@ -6,7 +6,7 @@ Here are some of the TurtleCoin mining pools (arranged alphabetically):
 
 |                          Pool Name                           |    Total Fee and Method     |                 Min. Payout                  |        Location        |                            Notes                             |
 | :----------------------------------------------------------: | :-------------------------: | :------------------------------------------: | :--------------------: | :----------------------------------------------------------: |
-|        [Cryptohispano] (http://trtl.cryptohispano.net)        |             1%              |                   50 TRTL                    |         Spain          | Custom support in Spanish, port 8080 to avoid Firewall and Proxy |
+|        [Cryptohispano](http://trtl.cryptohispano.net)        |             1%              |                   50 TRTL                    |         Spain         | Custom support in Spanish, port 8080 to avoid Firewall and Proxy |
 |        [CryptoKnight](https://cryptoknight.cc/turtle)        |             0%              |                   100 TRTL                   |        Germany         |    Seems to be very shady                    |
 |     [CryptoNote Social](https://cryptonote.social/trtl)      |     0%, (Proportional)      | 0 TRTL(anything higher than transaction fee) |       California       | **No payments page, be wary.** Read `details details details` section carefully. |
 | [Funky Penguin NZ](https://trtl.heigh-ho.funkypenguin.co.nz) | 0.0987654321%, Proportional |                  1000 TRTL                   |      New Zealand       |                              -                               |
@@ -86,9 +86,3 @@ Basically, you get paid based on
 
 - the number of shares you submitted
 - and how long you have been mining.
-
-
-
-
-
-
